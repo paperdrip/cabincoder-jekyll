@@ -1,5 +1,5 @@
 ---
-title: 'Cabin Coder'
+title: 'Coding In The Air'
 subtitle: 'An experiment on the plane'
 date: 2019-09-07 06:00:00
 featured_image: '/images/cabin-square.jpg'

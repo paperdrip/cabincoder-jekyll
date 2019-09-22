@@ -9,7 +9,7 @@ featured_image: /images/social.jpg
 
 ## Features
 
-Simples is packed with powerful features to showcase your content:
+I love this theme and I am leaving the original page here to showcase the features. 
 
 * Beautiful, minimal design
 * Single column post layout
@@ -28,6 +28,4 @@ Simples is packed with powerful features to showcase your content:
 
 ## Get Simples
 
-Simples is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
-
-<a href="https://jekyllthemes.io/theme/simples-blog-jekyll-theme" class="button button--large">Get This Theme</a>
+Simples is created and supported by [Jekyll Themes](https://jekyllthemes.io), they have other themes that also look nice.
