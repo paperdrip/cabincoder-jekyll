@@ -2,11 +2,11 @@
 title: 'Cabin Coder'
 subtitle: 'An experiment on the plane'
 date: 2019-09-07 06:00:00
-featured\_image: '/images/cabin-square.jpg'
+featured_image: '/images/cabin-square.jpg'
 excerpt: What am I able to do with my iPad and the in plane WiFi over a 10 hours flight? This page shows everything about the experiment I am doing in the cabin, from my intention to the project details and the result.
 ---
 
-![]()(/images/waiting-to-takeoff.jpg)
+![](/images/waiting-to-takeoff.jpg)
 
 ## Introduction
 I enjoy the feeling of being able to do geeky stuff at remote location - be it on the mountain after a hike, a small table on the train or in a cabin on the sky!
