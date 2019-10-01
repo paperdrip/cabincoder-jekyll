@@ -1,0 +1,22 @@
+---
+title: 'First Challenge'
+date: 2019-09-07 13:50:00
+featured_image: '/images/image-upload.png'
+excerpt: Challenge right ahead, that's normal.
+---
+
+![](/images/shortcut-to-the-rescue.png)
+
+## Houston, I've got a problem
+
+Right after the first post, I realize I have a challenge ahead - I have too good of a camera, I mean the file size is too big (even if I am not on a plane). Resizing is needed but I don't have apps that could do that easily in routine.
+
+**Routine.**
+
+OK, that means repetitive task and Shortcuts is just for that. And the post below posted a solution that is very close to [what I need][1]. What I have modified in my flow is the addition of a new dimension and the corresponding ratio (5x4, 1.25). 
+
+And now, I have shrunken the image from 6M to about 200k. Not too bad, huh?
+
+[1]:	https://www.reddit.com/r/shortcuts/comments/9ylhpc/shortcut_to_resize_photo_for_instagram_from_photo/
+
+[image-1]:	/images/shortcut-to-the-rescue.png
